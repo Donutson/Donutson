@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Happy Learner 🙃</h1>
+<h1 align="center">Hi 👋, I'm a Happy Learner 🙃</h1>
 <h3 align="center">A passionate of data science,AI and coding</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=donutson&label=Profile%20views&color=0e75b6&style=plastic" alt="donutson" /> </p>
